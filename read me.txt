@@ -1,0 +1,3 @@
+Run SAM.py from the commandline.
+You can type stuff into the command line and SAM will say it.
+You can also paste whole texts into it for naration.
